@@ -22,5 +22,5 @@ Then we got the second obfuscation, just do it reapetly until you got
 String.fromCharCode(104,68,117,102,106,100,107,105,49,53,54)
 ```
 This is an javascript charcode, you can use the console from the web inspect, write it down and run 
-## thats it the you got the Flag!!!
+## Thats it you got the Flag!!!
 
