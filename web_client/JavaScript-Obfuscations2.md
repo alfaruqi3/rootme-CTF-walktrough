@@ -11,14 +11,13 @@ So "going down 3 floors" could be means that the password processed 3 times usin
 <img width="1002" height="426" alt="Obs1" src="https://github.com/user-attachments/assets/b7d0ae2c-e8e2-471f-855a-5554e325ad22" /><br>
 that the password !!!
 
-# Using the same technique as before we use an online Urldecoder
+# Using the same technique as before, using online Urldecoder
 ```bash
 https://www.urldecoder.org/
 ```
 use the inner "()" to decode <br>
-<img width="1002" height="710" alt="Obs2" src="https://github.com/user-attachments/assets/6316b70c-e4d5-435e-977a-7bbbe7fb4a87" />
-
-## Then we got the second obfuscation just do it reapetly until u got 
+<img width="1002" height="710" alt="Obs2" src="https://github.com/user-attachments/assets/6316b70c-e4d5-435e-977a-7bbbe7fb4a87" /><br>
+Then we got the second obfuscation, just do it reapetly until you got 
 ``` bash
 String.fromCharCode(104,68,117,102,106,100,107,105,49,53,54)
 ```
