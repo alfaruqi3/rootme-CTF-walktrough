@@ -16,8 +16,7 @@ if(username == "admin" && password == "secret123"){
 }
 ```
 <br>
-
-A user can inspect the page and see that the password is **secret123**.
+User can inspect the page and see that the password is **secret123**.
 
 ## Challange Web 
 <img width="999" height="358" alt="1" src="https://github.com/user-attachments/assets/a62cb02f-839f-4c0c-a0e3-15f5928820a2" /><br>
@@ -25,11 +24,11 @@ A user can inspect the page and see that the password is **secret123**.
 ## So as usually just straight go into the inspect page then search the ".js" file for the credential informations 
 <img width="1007" height="377" alt="2" src="https://github.com/user-attachments/assets/dd6658fb-4770-4a6a-b66e-26f36771cbce" /><br>
 
-here we got the "**login.js**" file that is exist in the web,<br>
-so we search them in browser just add "**/login.js**" at the end of the url :<br>
+Here we got the "**login.js**" file that is exist in the web,<br>
+So we search them in browser just add "**/login.js**" at the end of the url :<br>
 <img width="1005" height="360" alt="3" src="https://github.com/user-attachments/assets/32d4d65f-9129-488e-ba7c-b5c104cc1eee" /><br>
 
 ## We redirect to this page 
 <img width="1002" height="343" alt="4" src="https://github.com/user-attachments/assets/436a4320-243e-49f0-8567-0de7836e09f3" /><br>
-## Now you can see the username and the password, use it and u got the flag 
+## Now you can see the username and the password, use it and you got the flag 
 
