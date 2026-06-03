@@ -11,7 +11,7 @@ So "going down 3 floors" could be means that the password processed 3 times usin
 <img width="1002" height="426" alt="Obs1" src="https://github.com/user-attachments/assets/b7d0ae2c-e8e2-471f-855a-5554e325ad22" /><br>
 that the password !!!
 
-# Using the same technique as before, using online Urldecoder
+# Use the same technique as before, using online Urldecoder
 ```bash
 https://www.urldecoder.org/
 ```
