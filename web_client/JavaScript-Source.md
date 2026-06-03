@@ -19,7 +19,7 @@ Here we got a pop up who ask the password <br>
 The problem is we couldn't open the inspect page or the source page because it is an alert pop-up
 
 ## Solutions 
-We can use a "**Curl**" command to see the web source page os open your Terminal and type : <br>
+We can use a "**Curl**" command to see the web source page, open your Terminal and type : <br>
 ```bash
 Curl -i <url>
 ```
