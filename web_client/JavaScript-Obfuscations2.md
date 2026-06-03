@@ -21,6 +21,6 @@ Then we got the second obfuscation, just do it reapetly until you got
 ``` bash
 String.fromCharCode(104,68,117,102,106,100,107,105,49,53,54)
 ```
-This is an javascript charcode u can use the console from the web write it down and run 
+This is an javascript charcode, you can use the console from the web inspect, write it down and run 
 ## thats it the you got the Flag!!!
 
