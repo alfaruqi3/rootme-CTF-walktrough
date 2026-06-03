@@ -7,7 +7,7 @@ So here is the second Obfusction challange, we got a clue from the "going down 3
 obfusction is a way to make the password difficult to read in javascript,<br>
 So "going down 3 floors" could be means that the password processed 3 times using obfuscation <br>
 
-## As always just go to the source of the web an we got 
+## As always just go to the source of the web
 <img width="1002" height="426" alt="Obs1" src="https://github.com/user-attachments/assets/b7d0ae2c-e8e2-471f-855a-5554e325ad22" /><br>
 that the password !!!
 
