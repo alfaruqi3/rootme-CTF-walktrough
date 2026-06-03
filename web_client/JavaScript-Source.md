@@ -16,7 +16,7 @@ When you visit a website and see files like script.js or code inside <script> ta
 ## Challange web 
 <img width="973" height="386" alt="1" src="https://github.com/user-attachments/assets/a7126c75-533f-415b-8746-c1eac1861c6d" /><br>
 Here we got a pop up who ask the password <br>
-The problem is we couldn't open the inspec page or the source page because it is an alert pop-up
+The problem is we couldn't open the inspect page or the source page because it is an alert pop-up
 
 ## Solutions 
 We can use a "**Curl**" command to see the web source page os open your Terminal and type : <br>
