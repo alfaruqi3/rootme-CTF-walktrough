@@ -17,7 +17,7 @@ eval(String.fromCharCode(97,108,101,114,116,40,34,72,101,108,108,111,34,41));
 - Make reverse engineering harder
 
 ## So here we go
-We got alert pop-up who ask the password just use "Curl" command to get in the source page of the web <br>
+We got alert pop-up who ask the password, just use "Curl" command to get the source page of the web and search for the password <br>
 ```bash
 Curl -i <url>
 ```
