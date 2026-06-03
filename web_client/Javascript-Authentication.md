@@ -9,11 +9,12 @@ JavaScript Authentication is a login system where the username and password are 
 Because the JavaScript code is sent to your browser,<br>
 anyone can inspect it (F12 → Sources/View Source) and potentially find the correct credentials or the validation logic.<br>
 Example:<br>
-
-</> JavaScript
+<br>
+```JavaScript
 if(username == "admin" && password == "secret123"){
     alert("Access granted");
 }
+```
 <br>
 
 A user can inspect the page and see that the password is **secret123**.
@@ -21,7 +22,7 @@ A user can inspect the page and see that the password is **secret123**.
 ## Challange Web 
 <img width="999" height="358" alt="1" src="https://github.com/user-attachments/assets/a62cb02f-839f-4c0c-a0e3-15f5928820a2" /><br>
 
-## So ass usualy just straght go into an inspect page then search for the ".js" file for the credential informations 
+## So as usually just straight go into the inspect page then search the ".js" file for the credential informations 
 <img width="1007" height="377" alt="2" src="https://github.com/user-attachments/assets/dd6658fb-4770-4a6a-b66e-26f36771cbce" /><br>
 
 here we got the "**login.js**" file that is exist in the web,<br>
