@@ -1,4 +1,5 @@
 # JavaScript-Obfuscation
+## What is Obfuscation
 JavaScript obfuscation is the process of making JavaScript code difficult for humans to read and understand while keeping it working normally.<br>
 Example:<br>
 
@@ -6,12 +7,11 @@ Normal code:
 ```JavaScript
 alert("Hello");
 ```
-<br>
 Obfuscated code:<br>
 ```JavaScript
 eval(String.fromCharCode(97,108,101,114,116,40,34,72,101,108,108,111,34,41));
 ```
-Why it is used:<br>
+## Why it is used:
 - Protect code from being easily copied
 - Hide how the code works
 - Make reverse engineering harder
