@@ -30,5 +30,5 @@ so we search them in browser just add "**/login.js**" at the end of the url :<br
 
 ## We redirect to this page 
 <img width="1002" height="343" alt="4" src="https://github.com/user-attachments/assets/436a4320-243e-49f0-8567-0de7836e09f3" /><br>
-you can see the username and the password there us it and u got the flag 
+## Now you can see the username and the password, use it and u got the flag 
 
